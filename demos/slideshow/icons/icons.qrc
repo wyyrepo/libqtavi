@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+    	<file>film_64.png</file>
+        <file>folder_open.png</file>
+        <file>exit.png</file>
+        <file>run.png</file>
+        <file>pause.png</file>
+    </qresource>
+</RCC>
